@@ -1,0 +1,11 @@
+{
+  "bicim": 1,
+  "platform": "windows",
+  "surumKodu": 40,
+  "surum": "1.40.0",
+  "commit": "a10852131a380cd5ecf97dacf6e5e8277709e0f0",
+  "dosya": "https://github.com/restomenum-com/ccv-plugin-releases/releases/download/windows-40/RestomenumCCVAgent-Setup-1.40.0.exe",
+  "boyut": 27478743,
+  "sha256": "6d8f26c44122dc3907c90a4915f704073ea7e568c768816f7f4862657eebebf1",
+  "yayinlandi": "2026-10-29T10:52:18Z"
+}
