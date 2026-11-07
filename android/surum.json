@@ -1,0 +1,11 @@
+{
+  "bicim": 1,
+  "platform": "android",
+  "surumKodu": 42,
+  "surum": "1.42.0",
+  "commit": "2e87bffa6b8c5f04574f05d5cd7b735fc098006b",
+  "dosya": "https://github.com/restomenum-com/ccv-plugin-releases/releases/download/android-42/RestomenumCCV-1.42.0.apk",
+  "boyut": 23308516,
+  "sha256": "95ff608e38baf9b5eb0cddde55af43944eb01996360c2934273e0941f51ab1c0",
+  "yayinlandi": "2026-11-07T19:48:36Z"
+}
