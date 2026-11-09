@@ -1,11 +1,11 @@
 {
   "bicim": 1,
   "platform": "windows",
-  "surumKodu": 47,
-  "surum": "1.47.0",
-  "commit": "9620ff262e4eb1c099a9508923f243f7f6870fda",
-  "dosya": "https://github.com/restomenum-com/ccv-plugin-releases/releases/download/windows-47/RestomenumCCVAgent-Setup-1.47.0.exe",
-  "boyut": 27460821,
-  "sha256": "700f5eee40c3f8475cc01bc91d42f4a44c3665aaa6d82f4ec5f818175e3ffeb2",
-  "yayinlandi": "2026-11-09T15:31:00Z"
+  "surumKodu": 50,
+  "surum": "1.50.0",
+  "commit": "d0d2d1b20c7f94553dfb90642e2559fabfeccde0",
+  "dosya": "https://github.com/restomenum-com/ccv-plugin-releases/releases/download/windows-50/RestomenumCCVAgent-Setup-1.50.0.exe",
+  "boyut": 27464083,
+  "sha256": "eb86d9777e7ec3319885d42b163b26e542b9edc9d7d81bd3523dd2908ca0f67d",
+  "yayinlandi": "2026-11-09T22:37:13Z"
 }
