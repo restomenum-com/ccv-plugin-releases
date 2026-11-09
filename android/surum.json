@@ -1,11 +1,11 @@
 {
   "bicim": 1,
   "platform": "android",
-  "surumKodu": 45,
-  "surum": "1.45.0",
-  "commit": "799b39912c4e1d4a8faa68f501be36ff7ad4939e",
-  "dosya": "https://github.com/restomenum-com/ccv-plugin-releases/releases/download/android-45/RestomenumCCV-1.45.0.apk",
+  "surumKodu": 47,
+  "surum": "1.47.0",
+  "commit": "9620ff262e4eb1c099a9508923f243f7f6870fda",
+  "dosya": "https://github.com/restomenum-com/ccv-plugin-releases/releases/download/android-47/RestomenumCCV-1.47.0.apk",
   "boyut": 23338499,
-  "sha256": "6fd2a453d30ffe9b30e87172b7368e538a0141af92e08868a1925fc80a2708e5",
-  "yayinlandi": "2026-11-09T14:51:01Z"
+  "sha256": "f25b598f64b472f44f905e03043700aa195db56078704c8d0e8b22d3cb3adfa6",
+  "yayinlandi": "2026-11-09T15:33:50Z"
 }
